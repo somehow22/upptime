@@ -11,8 +11,8 @@ sites:
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
-  cname: status.nxapi.us.kg
-  # baseUrl: /your-repo-name
+  # cname: status.nxapi.us.kg
+  baseUrl: /nx
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   name: Magpie Status
   introTitle: "**This** a status page to track my services' availability"
